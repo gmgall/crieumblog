@@ -8,6 +8,17 @@
     <language>pt-br</language>
     <lastBuildDate>Thu, 21 Sep 2023 18:43:43 -0300</lastBuildDate><atom:link href="https://crieaporradeum.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mataroa Blog</title>
+      <link>https://crieaporradeum.blog/posts/mataroa-outra-plataforma-minimalista/</link>
+      <pubDate>Thu, 08 Aug 2024 22:36:43 -0300</pubDate>
+      
+      <guid>https://crieaporradeum.blog/posts/mataroa-outra-plataforma-minimalista/</guid>
+      <description>Em Como criar a porra do seu blog sugiro o Bear Blog como alternativa para quem não quer gerar o próprio site com uma ferramenta como o Hugo ou o Jekyll. O Bear Blog é sugerido no Start a Fucking Blog e era a solução mais minimalista que eu conhecia até aquele ponto.
+Hoje tive contato com outra plataforma que parece bem interessante: a Mataroa blog.
+Exemplo de post. Exemplo de blog.</description>
+    </item>
+    
+    <item>
       <title>Crie a Porra De Um Blog</title>
       <link>https://crieaporradeum.blog/posts/crie-a-porra-de-um-blog-mas-fuja-de-algumas-plataformas/</link>
       <pubDate>Tue, 27 Feb 2024 22:11:25 -0300</pubDate>
