@@ -8,6 +8,19 @@
     <language>pt-br</language>
     <lastBuildDate>Thu, 21 Sep 2023 22:23:05 -0300</lastBuildDate><atom:link href="https://crieaporradeum.blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>prose.sh</title>
+      <link>https://crieaporradeum.blog/posts/prose.sh/</link>
+      <pubDate>Fri, 23 Aug 2024 20:37:15 -0300</pubDate>
+      
+      <guid>https://crieaporradeum.blog/posts/prose.sh/</guid>
+      <description>Depois do Bear Blog e do Mataroa Blog, indico o prose.sh.
+Ele segue a mesma &amp;ldquo;pegada&amp;rdquo; minimalista das outras 2 plataformas, mas se define como uma plataforma de blog para hackers.
+Isso porque permite publicar posts diretamente da linha de comando, via rsync, scp ou sftp.
+Além disso, permite o upload de imagens, uma página 404 personalizada e usar seus próprios estilos.
+Se você vive na tela preta e acha chateação demais precisar de uma interface web para publicar, dê uma olhada no prose.</description>
+    </item>
+    
+    <item>
       <title>Mataroa Blog</title>
       <link>https://crieaporradeum.blog/posts/mataroa-outra-plataforma-minimalista/</link>
       <pubDate>Thu, 08 Aug 2024 22:36:43 -0300</pubDate>
