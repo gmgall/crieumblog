@@ -6,6 +6,10 @@
   <title>{{ .Title }}</title>
   <link rel="stylesheet" href="https://cdn.simplecss.org/simple.css">
   <link rel="icon" href="/images/favicon.png">
+  {{ with .OutputFormats.Get "rss" -}}
+      {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+  {{ end }}
+
 
   <meta name="fediverse:creator" content="@gmgall@ursal.zone" />
   <!-- Open Graph -->
