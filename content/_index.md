@@ -58,7 +58,7 @@ Use o *Xitter* só para postar links para o seu o seu novíssimo e maneiro pra c
 
 ## Falando sério agora
 
-Esse site é uma tradução/adaptação do [Start a Fucking Blog](https://startafuckingblog.com/) do [Kev Quirk](https://kevquirk.com/), que por sua vez foi influenciado por [Motherfucking Website](https://motherfuckingwebsite.com/) e por [Better Motherfucking Website](http://bettermotherfuckingwebsite.com/).
+Esse site é uma tradução/adaptação do – agora falecido – [Start a Fucking Blog](https://web.archive.org/web/20241214200233/https://startafuckingblog.com/) do [Kev Quirk](https://kevquirk.com/), que por sua vez foi influenciado por [Motherfucking Website](https://motherfuckingwebsite.com/) e por [Better Motherfucking Website](http://bettermotherfuckingwebsite.com/).
 
 Apesar do tom jocoso e do uso de palavreado chulo, a mensagem por trás desse site é séria. A [web moderna está fodida](https://thewebisfucked.com/). Ela se tornou [extremamente centralizada](https://www.gmgall.net/blog/tchau-twitter/#n%C3%A3o-quero-uma-web-centralizada) em poucas plataformas privadas. Isso é péssimo para os usuários.
 
