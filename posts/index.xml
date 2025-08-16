@@ -13,9 +13,18 @@
       <pubDate>Tue, 11 Feb 2025 21:07:07 -0300</pubDate>
       
       <guid>https://crieaporradeum.blog/posts/make-your-own-website/</guid>
-      <description>Hoje vi na Federação um post muito interessante da Shannon Kay.
-Ele falava de um guia para iniciantes em HTML e CSS conseguirem fazer seu primeiro site. Foi escrito originalmente para a filha de 12 anos de Shannon, então não pula etapas que talvez outros guias pulem.
-Se você quer fazer uma porra de um blog (ou site pessoal) e quer fazer à mão, recomendo uma conferida: Make Your Own Website1.</description>
+      <description>&lt;p&gt;Hoje vi na &lt;a href=&#34;https://fedi.tips/what-is-mastodon-what-is-the-fediverse/&#34;&gt;Federação&lt;/a&gt; um &lt;a href=&#34;https://bookstodon.com/@shannonkay/113981703308638892&#34;&gt;post&lt;/a&gt; muito interessante da &lt;a href=&#34;https://www.shannonkay.com/&#34;&gt;Shannon Kay&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ele falava de um &lt;a href=&#34;https://web.pixelshannon.com/make/&#34;&gt;guia para iniciantes&lt;/a&gt; em HTML e CSS conseguirem fazer seu primeiro site. Foi escrito originalmente para a filha de 12 anos de Shannon, então não pula etapas que talvez outros guias pulem.&lt;/p&gt;
+&lt;p&gt;Se você quer fazer uma porra de um blog (ou site pessoal) e quer fazer à mão, recomendo uma conferida: &lt;a href=&#34;https://web.pixelshannon.com/make/&#34;&gt;Make Your Own Website&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://web.archive.org/web/20250211152543/https://web.pixelshannon.com/make/&#34;&gt;Captura no Internet Archive&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -24,11 +33,12 @@ Se você quer fazer uma porra de um blog (ou site pessoal) e quer fazer à mão,
       <pubDate>Fri, 23 Aug 2024 20:37:15 -0300</pubDate>
       
       <guid>https://crieaporradeum.blog/posts/prose.sh/</guid>
-      <description>Depois do Bear Blog e do Mataroa Blog, indico o prose.sh.
-Ele segue a mesma &amp;ldquo;pegada&amp;rdquo; minimalista das outras 2 plataformas, mas se define como uma plataforma de blog para hackers.
-Isso porque permite publicar posts diretamente da linha de comando, via rsync, scp ou sftp.
-Além disso, permite o upload de imagens, uma página 404 personalizada e usar seus próprios estilos.
-Se você vive na tela preta e acha chateação demais precisar de uma interface web para publicar, dê uma olhada no prose.</description>
+      <description>&lt;p&gt;Depois do &lt;a href=&#34;https://bearblog.dev/&#34;&gt;Bear Blog&lt;/a&gt; e do &lt;a href=&#34;https://mataroa.blog/&#34;&gt;Mataroa Blog&lt;/a&gt;, indico o &lt;a href=&#34;https://pico.sh/prose&#34;&gt;prose.sh&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ele segue a mesma &amp;ldquo;pegada&amp;rdquo; minimalista das outras 2 plataformas, mas se define como &lt;em&gt;uma plataforma de blog para hackers&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Isso porque permite &lt;a href=&#34;https://pico.sh/prose#publish-your-posts-with-one-command&#34;&gt;publicar posts diretamente da linha de comando&lt;/a&gt;, via &lt;a href=&#34;https://pico.sh/file-uploads&#34;&gt;&lt;code&gt;rsync&lt;/code&gt;, &lt;code&gt;scp&lt;/code&gt; ou &lt;code&gt;sftp&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Além disso, permite o &lt;a href=&#34;https://pico.sh/prose#upload-images-for-your-blog&#34;&gt;upload de imagens&lt;/a&gt;, uma &lt;a href=&#34;https://pico.sh/prose#how-can-i-change-the-default-404-page&#34;&gt;página 404 personalizada&lt;/a&gt; e &lt;a href=&#34;https://pico.sh/prose#how-can-i-change-the-theme-of-my-blog&#34;&gt;usar seus próprios estilos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Se você vive na tela preta e acha chateação demais precisar de uma interface web para publicar, dê uma olhada no prose.sh. 🙂&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -37,9 +47,17 @@ Se você vive na tela preta e acha chateação demais precisar de uma interface 
       <pubDate>Thu, 08 Aug 2024 22:36:43 -0300</pubDate>
       
       <guid>https://crieaporradeum.blog/posts/mataroa-outra-plataforma-minimalista/</guid>
-      <description>Em Como criar a porra do seu blog sugiro o Bear Blog como alternativa para quem não quer gerar o próprio site com uma ferramenta como o Hugo ou o Jekyll. O Bear Blog é sugerido no Start a Fucking Blog e era a solução mais minimalista que eu conhecia até aquele ponto.
-Hoje tive contato com outra plataforma que parece bem interessante: a Mataroa blog.
-Exemplo de post. Exemplo de blog.</description>
+      <description>&lt;p&gt;Em &lt;a href=&#34;https://crieaporradeum.blog/#como-criar-a-porra-do-seu-blog&#34;&gt;Como criar a porra do seu blog&lt;/a&gt; sugiro o &lt;a href=&#34;https://bearblog.dev/&#34;&gt;Bear Blog&lt;/a&gt; como alternativa para quem não quer gerar o próprio site com uma ferramenta como o &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; ou o &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;. O Bear Blog é sugerido no &lt;a href=&#34;https://startafuckingblog.com/&#34;&gt;Start a Fucking Blog&lt;/a&gt; e era a solução mais minimalista que eu conhecia até aquele ponto.&lt;/p&gt;
+&lt;p&gt;Hoje tive contato com outra plataforma que parece bem interessante: a &lt;a href=&#34;https://mataroa.blog/&#34;&gt;Mataroa blog&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Exemplo de &lt;a href=&#34;https://nutcroft.mataroa.blog/blog/welcome-to-mataroa/&#34;&gt;post&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Exemplo de &lt;a href=&#34;https://hey.mataroa.blog/&#34;&gt;blog&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Não precisa pagar nada para criar um blog com URL &lt;code&gt;nome_de_usuario.mataroa.blog&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Todos os blogs tem feed RSS e mecanismo de subscrição por e-mail.&lt;/p&gt;
+&lt;p&gt;O Mataroa é baseado em &lt;a href=&#34;https://github.com/mataroa-blog&#34;&gt;software livre&lt;/a&gt; e eles prometem não aplicar nenhum mecanismo de &lt;a href=&#34;https://en.wikipedia.org/wiki/Vendor_lock-in&#34;&gt;lock-in&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Se eu hoje não gerasse &lt;a href=&#34;https://gmgall.net/&#34;&gt;meus&lt;/a&gt; &lt;a href=&#34;https://crieaporradeum.blog/&#34;&gt;sites&lt;/a&gt; com Hugo e quisesse ter uma presença na web, testaria o Mataroa.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -48,10 +66,33 @@ Exemplo de post. Exemplo de blog.</description>
       <pubDate>Tue, 27 Feb 2024 22:11:25 -0300</pubDate>
       
       <guid>https://crieaporradeum.blog/posts/crie-a-porra-de-um-blog-mas-fuja-de-algumas-plataformas/</guid>
-      <description>Em Como criar a porra do seu blog sugiro algumas ferramentas, mas concluo com:
-Escolha a sua ferramenta preferida. O importante é fazer a porra de um blog para você.
-Sigo concordando com isso. Se hoje 100% da sua expressão na web é feita em sites de bilionários1 sem muitos escrúpulos, criar o seu canto na web é o mais importante no momento.
-Infelizmente a definição do que é &amp;ldquo;o seu canto na web&amp;rdquo;, especialmente em 2024, não é muito simples.</description>
+      <description>&lt;p&gt;Em &lt;a href=&#34;https://crieaporradeum.blog/#como-criar-a-porra-do-seu-blog&#34;&gt;Como criar a porra do seu blog&lt;/a&gt; sugiro algumas ferramentas, mas concluo com:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Escolha a sua ferramenta preferida. O importante é fazer a porra de um blog para você.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Sigo concordando com isso. Se hoje 100% da sua expressão na web é feita em sites de bilionários&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; sem muitos escrúpulos, criar o seu canto na web é o mais importante no momento.&lt;/p&gt;
+&lt;p&gt;Infelizmente a definição do que é &amp;ldquo;o &lt;strong&gt;seu&lt;/strong&gt; canto na web&amp;rdquo;, especialmente em 2024, não é muito simples. Você pode ser dona do seu conteúdo no sentido meio difuso que uso na &lt;a href=&#34;https://crieaporradeum.blog/&#34;&gt;home page&lt;/a&gt;, mas estar usando uma plataforma que vai entregar o que você armazena lá para o treinamento de &lt;a href=&#34;https://en.wikipedia.org/wiki/Stochastic_parrot&#34;&gt;papagaios estocásticos&lt;/a&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Claro que além de todos os problemas decorrentes do hype em torno dessas IAs (e são &lt;strong&gt;muitos&lt;/strong&gt;), você não será remunerado pelo uso do que criou.&lt;/p&gt;
+&lt;p&gt;Escrevo esse post porque estão sob forte escrutínio 2 das plataformas mais populares para quem deseja ter o seu próprio blog: Tumblr e WordPress.com&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;. Documentos internos da Automattic vazaram e parece que existe a intenção de vender conteúdo de suas plataformas para empresas como OpenAI e MidJourney. Leia mais no &lt;a href=&#34;https://gizmodo.com/wordpress-tumblr-plan-sell-user-content-ai-companies-1851291225&#34;&gt;Gizmodo&lt;/a&gt; e no &lt;a href=&#34;https://www.404media.co/tumblr-and-wordpress-to-sell-users-data-to-train-ai-tools/&#34;&gt;404 Media&lt;/a&gt;&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Então, crie a porra de um blog, mas considere fugir de algumas plataformas.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;A.k.a. redes sociais comerciais.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;&amp;ldquo;Inteligência&amp;rdquo; Artificial.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Importante não confundir WordPress.com, serviço hospedagem de blogs feitos com o WordPress de propriedade da Automattic, com WordPress, o CMS software livre em si.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;É necessário login para ler o texto na íntegra, mas malfeitores compartilharam uma forma de logar no &lt;a href=&#34;https://bugmenot.com/&#34;&gt;BugMeNot&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -60,10 +101,18 @@ Infelizmente a definição do que é &amp;ldquo;o seu canto na web&amp;rdquo;, e
       <pubDate>Fri, 06 Oct 2023 12:28:47 -0300</pubDate>
       
       <guid>https://crieaporradeum.blog/posts/todo-mundo-pode-fazer-um-site/</guid>
-      <description>Vi um post inspirador no blog do Jim Nielsen, o Making a Website is for Everyone.
-Ele relata um diálogo ocorrido no Mastodon (tradução minha, o original é em inglês):
-Dave: O que te empolga na web? Uma conexão? Um projeto? Uma tecnologia?
-Thomas: A web é a única plataforma de programação (que eu conheça) que considera que os seus construtores são pessoas normais, não profissionais de TI e continua a escrever padrões com essa consideração.</description>
+      <description>&lt;p&gt;Vi um post inspirador no &lt;a href=&#34;https://blog.jim-nielsen.com/&#34;&gt;blog do Jim Nielsen&lt;/a&gt;, o &lt;a href=&#34;https://blog.jim-nielsen.com/2023/websites-are-for-normies/&#34;&gt;&lt;em&gt;Making a Website is for Everyone&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ele relata um &lt;a href=&#34;https://mastodon.social/@davatron5000/110912189201082943&#34;&gt;diálogo ocorrido no Mastodon&lt;/a&gt; (tradução minha, o original é em inglês):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dave: O que te empolga na web? Uma conexão? Um projeto? Uma tecnologia?&lt;/p&gt;
+&lt;p&gt;Thomas: A web é a única plataforma de programação (que eu conheça) que considera que os seus construtores são pessoas normais, não profissionais de TI e continua a escrever padrões com essa consideração.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Eu concordo &lt;strong&gt;demais&lt;/strong&gt; com isso.&lt;/p&gt;
+&lt;p&gt;O foda da web é que muita gente diferente pode se expressar.&lt;/p&gt;
+&lt;p&gt;Eu - e muitos outros - criávamos sites munidos só da vontade de se expressar, editores de texto simples e tentativa e erro. Isso muito antes de eu sonhar em trabalhar com computadores.&lt;/p&gt;
+&lt;p&gt;Ninguém precisa das redes sociais comerciais, que viram donas do seu conteúdo, para se expressar na web. Não precisa ser profissional de TI. A web e seus padrões abertos representa uma revolução na comunicação humana. Ela precisa ser defendida da ofensiva dos &lt;a href=&#34;https://pt.wikipedia.org/wiki/Capitalismo_de_vigil%C3%A2ncia&#34;&gt;capitalistas de vigilância&lt;/a&gt; a todo custo.&lt;/p&gt;
+&lt;p&gt;Crie a porra de um blog.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -72,11 +121,20 @@ Thomas: A web é a única plataforma de programação (que eu conheça) que cons
       <pubDate>Wed, 20 Sep 2023 19:44:20 -0300</pubDate>
       
       <guid>https://crieaporradeum.blog/posts/a-porra-de-um-post/</guid>
-      <description>Essa é a porra do primeiro post desse blog. É maravilhoso, não?
-Dá para colocar qualquer tipo de merda nos posts. Imagens, citações, destaques&amp;hellip; Você escolhe, é a porra do seu blog afinal.
-Olha essa imagem foda com licença Creative Commons:
-Catedral de Petrópolis em foto feita por Filipo Tardim Olha essa citação de Karl Marx:
-Os trabalhadores precisam de apenas 3 coisas: tomarem os meios de produção, pararem de acreditar em citações aleatórias atribuídas a mim e criarem, cada um, a porra de um blog.</description>
+      <description>&lt;p&gt;Essa é a porra do primeiro post desse blog. É maravilhoso, não?&lt;/p&gt;
+&lt;p&gt;Dá para colocar qualquer tipo de merda nos posts. Imagens, citações, destaques&amp;hellip; Você escolhe, é a porra do seu blog afinal.&lt;/p&gt;
+&lt;p&gt;Olha essa imagem foda &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Catedral_de_Petr%C3%B3polis.jpg&#34;&gt;com licença Creative Commons&lt;/a&gt;:&lt;/p&gt;
+&lt;figure class=&#34;notice&#34;&gt;&lt;img src=&#34;https://crieaporradeum.blog/images/catedral_de_petropolis.jpg&#34;
+         alt=&#34;Catedral de Petrópolis-RJ&#34;/&gt;&lt;figcaption&gt;
+            &lt;h4&gt;Catedral de Petrópolis em foto feita por Filipo Tardim&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Olha essa citação de Karl Marx:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Os trabalhadores precisam de apenas 3 coisas: tomarem os meios de produção, pararem de acreditar em citações aleatórias atribuídas a mim e criarem, cada um, a porra de um blog.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
     
   </channel>
