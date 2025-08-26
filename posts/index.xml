@@ -8,6 +8,19 @@
     <language>pt-br</language>
     <lastBuildDate>Thu, 21 Sep 2023 22:23:05 -0300</lastBuildDate><atom:link href="https://crieaporradeum.blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Feed Completo e Estilizado</title>
+      <link>https://crieaporradeum.blog/posts/feed-completo-e-estilizado/</link>
+      <pubDate>Tue, 26 Aug 2025 12:44:50 -0300</pubDate>
+      
+      <guid>https://crieaporradeum.blog/posts/feed-completo-e-estilizado/</guid>
+      <description>&lt;p&gt;Esse site é a favor da &lt;a href=&#34;https://thewebisfucked.com/&#34;&gt;desfodização da web&lt;/a&gt; e &lt;a href=&#34;https://aboutfeeds.com/&#34;&gt;RSS&lt;/a&gt; é uma peça importante nesse quebra-cabeça. Porém, mesmo existindo desde 2023, o &lt;a href=&#34;https://crieaporradeum.blog/index.xml&#34;&gt;feed desse blog&lt;/a&gt; não era completo. Apenas um sumário dos posts estava disponível via RSS, para ler os textos completos, era necessário vir aqui.&lt;/p&gt;
+&lt;p&gt;Isso foi mudado ontem. Agora os posts completos estão disponíveis. Antes tarde do que nunca.🤷‍♂️&lt;/p&gt;
+&lt;p&gt;Aproveitei também para estilizar o feed. Antes, ao acessar o feed pelo navegador, a pessoa via um XML feio na tela. Agora, aparece um texto explicando que aquilo é um feed e que é possível acompanhar as atualizações do site por um agregador.&lt;/p&gt;
+&lt;p&gt;Esse tipo de estilização é possível por meio de um padrão muito útil chamado &lt;a href=&#34;https://pt.wikipedia.org/wiki/XSLT&#34;&gt;XSLT&lt;/a&gt;. Claro que sendo 2025, ele &lt;a href=&#34;https://mastodon.social/@Edent/115048990801167629&#34;&gt;está sob ataque&lt;/a&gt; porque &lt;a href=&#34;https://wok.oblomov.eu/tecnologia/google-killing-open-web/&#34;&gt;big techs não deixam a gente ter nada legal&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Make Your Own Website</title>
       <link>https://crieaporradeum.blog/posts/make-your-own-website/</link>
       <pubDate>Tue, 11 Feb 2025 21:07:07 -0300</pubDate>
